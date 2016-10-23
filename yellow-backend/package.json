@@ -1,0 +1,21 @@
+{
+  "name": "yellow",
+  "version": "0.0.0",
+  "description": "yellow backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raj-subhankar",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.14.0",
+    "mongoose": "~4.6.4",
+    "body-parser": "~1.15.2",
+    "morgan": "~1.7.0",
+    "bcrypt": "~0.8.7",
+    "multer": "~1.2.0",
+    "imagemagick": "~0.1.3",
+    "jsonwebtoken": "~7.1.9"
+  }
+}
